@@ -1,4 +1,5 @@
 this is a change
 this is another change to my file I can add images etc to project
 third change to file
-change again to kitten 
+change again to kitten
+change to master in kitten for merge conflict
